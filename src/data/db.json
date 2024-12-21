@@ -1,0 +1,10 @@
+{
+    "products": [
+      { "id": 1, "name": "Oppo", "price": 100 },
+      { "id": 2, "name": "Apple", "price": 200 },
+      { "id": 4, "name": "Samsung", "price": 300 },
+      { "id": 5, "name": "Vivo", "price": 400 },
+      { "id": 6, "name": "Redmi", "price": 500 }
+    ]
+  }
+  
